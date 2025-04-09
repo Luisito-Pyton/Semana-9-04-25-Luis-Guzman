@@ -1,0 +1,17 @@
+Taller Encapsulamiento
+
+Ejercicio 1: Crear 3 objetos de Estudiante, asignar notas y mostrar los datos -
+Encapsular los atributos de un estudiante para gestionar sus notas.
+
+Ejercicio 2: Simular un pago y mostrar su estado - Encapsular la información de
+pago y restringir el acceso directo a los datos sensibles.
+
+Ejercicio 3: Crear una cuenta y validar el acceso con diferentes combinaciones -
+Encapsular el usuario y la contraseña con validación mediante métodos públicos.
+
+Ejercicio 4: Ingresar un producto y precio, luego mostrar el total con IVA -
+Encapsular el cálculo del total de una factura incluyendo impuestos.
+
+Ejercicio 5: Probar cada opción cambiando el valor con el setter y ejecutando la
+acción - Encapsular una selección de opciones, permitiendo acceder y modificar la
+opción elegida de forma controlada.
